@@ -4,8 +4,8 @@
 ---
 
 ## 📬 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-tu-b002b037b/)  
-📧 **Email:** [nttu.dev@gmail.com](mailto:nttu.dev@gmail.com)  
+- 📧 Email: [nttu.dev@gmail.com](mailto:nttu.dev@gmail.com)  
+- 🔗 LinkedIn: [Nguyen Tam Tu](https://www.linkedin.com/in/nguyen-tu-b002b037b/)  
 
 ---
 
@@ -48,5 +48,16 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nguyentu494&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 📖 Currently Learning
+- Advanced Frontend Development with **Next.js** & **TypeScript**  
+- UI/UX best practices with **TailwindCSS**  
+- Backend integration using **FastAPI** & **PostgreSQL**  
+- Cloud & DevOps basics: **Docker**, **Terraform**, **DigitalOcean**  
+
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
