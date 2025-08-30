@@ -3,8 +3,9 @@
 
 ---
 
-## 🌐 Socials
+## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-tu-b002b037b/)  
+📧 **Email:** [nttu.dev@gmail.com](mailto:nttu.dev@gmail.com)  
 
 ---
 
