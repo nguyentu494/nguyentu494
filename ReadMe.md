@@ -48,7 +48,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nguyentu494&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 📖 Currently Learning
 - Advanced Frontend Development with **Next.js** & **TypeScript**  
 - UI/UX best practices with **TailwindCSS**  
